@@ -1,4 +1,4 @@
-# Product Catalog
+# Single Module
 
 Flutter-based project, implementing the clean-architecture on the app module and some multi-package
 as a tools.
